@@ -1,0 +1,42 @@
+.contaner{
+    border: 1px solid red;
+border-radius: 47px;
+background-color: rgb(251, 230, 0);
+color: blueviolet;
+
+}
+
+.contant{
+    color: #f50202;
+    border: 1px solid #00ff26;
+border-radius: 20%;
+background-color: #4eedc5;
+box-shadow:6px 5px #ffa8ec;
+}
+.fname{
+    border: 1px solid #f058ca;
+    background-color: #ffa8ec;
+    box-shadow:6px 5px #4eedc5;
+    border-radius: 15px 50px;
+
+}
+.mid{
+    border: 1px solid rgb(68, 46, 230);
+background-color: rgb(98, 107, 230);
+color: #f80606;
+/* border-radius: 20%; */
+
+}
+
+.conNumber{
+    border: 1px solid rgb(116, 106, 2);
+background-color: #f4fc01;
+border-radius: 15px 50px 30px;
+box-shadow:6px 5px #ed4e4e;
+
+}
+.main{
+    border: 1px solid rgb(203, 105, 222);
+background-color: #d8b5f0e4;
+color: rgb(225, 0, 255);
+}
